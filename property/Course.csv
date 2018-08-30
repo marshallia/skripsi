@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,courseCode,"Text,"
+2,coursePrerequisites,"AlignmentObject,Course,Text,"
+3,educationalCredentialAwarded,"Text,URL,"
+4,hasCourseInstance,"CourseInstance,"

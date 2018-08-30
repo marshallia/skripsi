@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,about,"Thing,"
+2,inLanguage,"Language,Text,"
+3,recipient,"Audience,ContactPoint,Organization,Person,"

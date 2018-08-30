@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,currency,"Text,"
+2,maxValue,"Number,"
+3,minValue,"Number,"
+4,validFrom,"DateTime,"
+5,validThrough,"DateTime,"
+6,value,"Boolean,Number,StructuredValue,Text,"

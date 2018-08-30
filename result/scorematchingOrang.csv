@@ -1,0 +1,769 @@
+No,atribut,property,score
+1.,name,additional Type,0.0
+2.,name,alternate Name,0.06923076923076923
+3.,name,description,0.05555555555555555
+4.,name,disambiguating Description,0.01111111111111111
+5.,name,identifier,0.05555555555555555
+6.,name,image,0.04733727810650888
+7.,name,main Entity Of Page,0.0
+8.,name,name,0.8999999999999999
+9.,name,potential Action,0.0
+10.,name,same As,0
+11.,name,subject Of,0.06611570247933884
+12.,name,rl,0
+13.,name,additional Name,0.0
+14.,name,address,0.04081632653061224
+15.,name,affiliation,0.05555555555555555
+16.,name,alumni Of,0.01183431952662722
+17.,name,award,0.035555555555555556
+18.,name,birth Date,0.027777777777777776
+19.,name,birth Place,0.027777777777777776
+20.,name,brand,0.42603550295857995
+21.,name,children,0.013888888888888888
+22.,name,colleague,0.01183431952662722
+23.,name,contact Point,0.02040816326530612
+24.,name,death Date,0.02564102564102564
+25.,name,death Place,0.02366863905325444
+26.,name,duns,0.0037807183364839316
+27.,name,email,0.035555555555555556
+28.,name,family Name,0.13846153846153847
+29.,name,fax Number,0.009615384615384616
+30.,name,follows,0.0
+31.,name,funder,0
+32.,name,gender,0.04733727810650888
+33.,name,given Name,0.09999999999999999
+34.,name,global Location Number,0.0
+35.,name,has Occupation,0.04733727810650888
+36.,name,has Offer Catalog,0.02366863905325444
+37.,name,has POS,0.16326530612244897
+38.,name,height,0.04733727810650888
+39.,name,home Location,0.006666666666666667
+40.,name,honorific Prefix,0.05555555555555555
+41.,name,honorific Suffix,0.05952380952380952
+42.,name,isic V4,0
+43.,name,job Title,0.02366863905325444
+44.,name,knows,0.04081632653061224
+45.,name,makes Offer,0.017094017094017096
+46.,name,member Of,0.01183431952662722
+47.,name,naics,0
+48.,name,nationality,0.06611570247933884
+49.,name,net Worth,0.0
+50.,name,owns,0.0
+51.,name,parent,0.008888888888888889
+52.,name,performer In,0.013888888888888888
+53.,name,publishing Principles,0.019047619047619046
+54.,name,related To,0.0
+55.,name,seeks,0.04733727810650888
+56.,name,sibling,0
+57.,name,sponsor,0.01183431952662722
+58.,name,spouse,0.013888888888888888
+59.,name,tax ID,0.04591836734693877
+60.,name,telephone,0.008888888888888889
+61.,name,vat ID,0.031141868512110732
+62.,name,weight,0.05555555555555555
+63.,name,work Location,0.02366863905325444
+64.,name,works For,0.01020408163265306
+65.,gender,additional Type,0.0
+66.,gender,alternate Name,0.01098901098901099
+67.,gender,description,0.04733727810650888
+68.,gender,disambiguating Description,0.009615384615384616
+69.,gender,identifier,0.04733727810650888
+70.,gender,image,0.04081632653061224
+71.,gender,main Entity Of Page,0.0
+72.,gender,name,0.04733727810650888
+73.,gender,potential Action,0.0
+74.,gender,same As,0
+75.,gender,subject Of,0.05555555555555555
+76.,gender,rl,0
+77.,gender,additional Name,0.0
+78.,gender,address,0.035555555555555556
+79.,gender,affiliation,0.04733727810650888
+80.,gender,alumni Of,0.01020408163265306
+81.,gender,award,0.03125
+82.,gender,birth Date,0.02366863905325444
+83.,gender,birth Place,0.02366863905325444
+84.,gender,brand,0.04081632653061224
+85.,gender,children,0.01183431952662722
+86.,gender,colleague,0.01020408163265306
+87.,gender,contact Point,0.017777777777777778
+88.,gender,death Date,0.02197802197802198
+89.,gender,death Place,0.02040816326530612
+90.,gender,duns,0.003472222222222222
+91.,gender,email,0.03125
+92.,gender,family Name,0.04591836734693877
+93.,gender,fax Number,0.008403361344537815
+94.,gender,follows,0.0
+95.,gender,funder,0
+96.,gender,gender,0.8999999999999999
+97.,gender,given Name,0.015384615384615385
+98.,gender,global Location Number,0.0
+99.,gender,has Occupation,0.04081632653061224
+100.,gender,has Offer Catalog,0.02040816326530612
+101.,gender,has POS,0.035555555555555556
+102.,gender,height,0.04081632653061224
+103.,gender,home Location,0.005681818181818182
+104.,gender,honorific Prefix,0.02366863905325444
+105.,gender,honorific Suffix,0.02366863905325444
+106.,gender,isic V4,0
+107.,gender,job Title,0.02040816326530612
+108.,gender,knows,0.035555555555555556
+109.,gender,makes Offer,0.014285714285714285
+110.,gender,member Of,0.01020408163265306
+111.,gender,naics,0
+112.,gender,nationality,125
+113.,gender,net Worth,0.0
+114.,gender,owns,0.0
+115.,gender,parent,0.0078125
+116.,gender,performer In,0.01183431952662722
+117.,gender,publishing Principles,0.016666666666666666
+118.,gender,related To,0.0
+119.,gender,seeks,0.04081632653061224
+120.,gender,sibling,0
+121.,gender,sponsor,0.01020408163265306
+122.,gender,spouse,0.01183431952662722
+123.,gender,tax ID,0.017777777777777778
+124.,gender,telephone,0.0078125
+125.,gender,vat ID,0.012345679012345678
+126.,gender,weight,0.04733727810650888
+127.,gender,work Location,0.02040816326530612
+128.,gender,works For,0.008888888888888889
+129.,place of birth,additional Type,0.015625
+130.,place of birth,alternate Name,0.06777777777777778
+131.,place of birth,description,0.013888888888888888
+132.,place of birth,disambiguating Description,0.03333333333333333
+133.,place of birth,identifier,0.013888888888888888
+134.,place of birth,image,0.01183431952662722
+135.,place of birth,main Entity Of Page,0.013605442176870748
+136.,place of birth,name,0.013888888888888888
+137.,place of birth,potential Action,0.027777777777777776
+138.,place of birth,same As,0
+139.,place of birth,subject Of,0.01652892561983471
+140.,place of birth,rl,0
+141.,place of birth,additional Name,0.027777777777777776
+142.,place of birth,address,0.01020408163265306
+143.,place of birth,affiliation,0.013888888888888888
+144.,place of birth,alumni Of,0.04000000000000001
+145.,place of birth,award,0.008888888888888889
+146.,place of birth,birth Date,0.3
+147.,place of birth,birth Place,0.8999999999999999
+148.,place of birth,brand,0.01183431952662722
+149.,place of birth,children,0.04591836734693877
+150.,place of birth,colleague,0.04000000000000001
+151.,place of birth,contact Point,0.028061224489795915
+152.,place of birth,death Date,0.07532051282051282
+153.,place of birth,death Place,0.27692307692307694
+154.,place of birth,duns,0.017013232514177693
+155.,place of birth,email,0.008888888888888889
+156.,place of birth,family Name,0.04059829059829059
+157.,place of birth,fax Number,0.05882488905325444
+158.,place of birth,follows,0.0
+159.,place of birth,funder,0
+160.,place of birth,gender,0.01183431952662722
+161.,place of birth,given Name,0.037037037037037035
+162.,place of birth,global Location Number,0.041025641025641026
+163.,place of birth,has Occupation,0.01183431952662722
+164.,place of birth,has Offer Catalog,0.05429864253393666
+165.,place of birth,has POS,0.02366863905325444
+166.,place of birth,height,0.01183431952662722
+167.,place of birth,home Location,0.17333333333333334
+168.,place of birth,honorific Prefix,0.03611111111111111
+169.,place of birth,honorific Suffix,0.037698412698412696
+170.,place of birth,isic V4,0
+171.,place of birth,job Title,0.031065088757396452
+172.,place of birth,knows,0.01020408163265306
+173.,place of birth,makes Offer,0.03221564760026299
+174.,place of birth,member Of,0.04000000000000001
+175.,place of birth,naics,0
+176.,place of birth,nationality,0.01652892561983471
+177.,place of birth,net Worth,0.07438016528925619
+178.,place of birth,owns,0.0
+179.,place of birth,parent,0.031141868512110732
+180.,place of birth,performer In,0.04591836734693877
+181.,place of birth,publishing Principles,0.029931972789115642
+182.,place of birth,related To,0.0
+183.,place of birth,seeks,0.01183431952662722
+184.,place of birth,sibling,0
+185.,place of birth,sponsor,0.04000000000000001
+186.,place of birth,spouse,0.04591836734693877
+187.,place of birth,tax ID,0.07142857142857142
+188.,place of birth,telephone,0.04000000000000001
+189.,place of birth,vat ID,0.058823529411764705
+190.,place of birth,weight,0.013888888888888888
+191.,place of birth,work Location,0.12307692307692308
+192.,place of birth,works For,0.04591836734693877
+193.,date of birth,additional Type,0.015625
+194.,date of birth,alternate Name,0.04059829059829059
+195.,date of birth,description,0.027777777777777776
+196.,date of birth,disambiguating Description,0.03888888888888889
+197.,date of birth,identifier,0.027777777777777776
+198.,date of birth,image,0.02366863905325444
+199.,date of birth,main Entity Of Page,0.013605442176870748
+200.,date of birth,name,0.027777777777777776
+201.,date of birth,potential Action,0.027777777777777776
+202.,date of birth,same As,0
+203.,date of birth,subject Of,0.03305785123966942
+204.,date of birth,rl,0
+205.,date of birth,additional Name,0.027777777777777776
+206.,date of birth,address,0.02040816326530612
+207.,date of birth,affiliation,0.027777777777777776
+208.,date of birth,alumni Of,0.00591715976331361
+209.,date of birth,award,0.017777777777777778
+210.,date of birth,birth Date,0.8999999999999999
+211.,date of birth,birth Place,0.3
+212.,date of birth,brand,0.02366863905325444
+213.,date of birth,children,0.006944444444444444
+214.,date of birth,colleague,0.00591715976331361
+215.,date of birth,contact Point,0.03826530612244898
+216.,date of birth,death Date,0.36346153846153845
+217.,date of birth,death Place,0.036489151873767264
+218.,date of birth,duns,0.0018903591682419658
+219.,date of birth,email,0.017777777777777778
+220.,date of birth,family Name,0.053418803418803416
+221.,date of birth,fax Number,0.03328402366863906
+222.,date of birth,follows,0.0
+223.,date of birth,funder,0
+224.,date of birth,gender,0.02366863905325444
+225.,date of birth,given Name,0.046296296296296294
+226.,date of birth,global Location Number,0.010256410256410256
+227.,date of birth,has Occupation,0.02366863905325444
+228.,date of birth,has Offer Catalog,0.03271841280891055
+229.,date of birth,has POS,0.02040816326530612
+230.,date of birth,height,0.02366863905325444
+231.,date of birth,home Location,0.01666666666666667
+232.,date of birth,honorific Prefix,0.049999999999999996
+233.,date of birth,honorific Suffix,0.051587301587301584
+234.,date of birth,isic V4,0
+235.,date of birth,job Title,0.04289940828402367
+236.,date of birth,knows,0.02040816326530612
+237.,date of birth,makes Offer,0.040762656147271537
+238.,date of birth,member Of,0.00591715976331361
+239.,date of birth,naics,0
+240.,date of birth,nationality,0.03305785123966942
+241.,date of birth,net Worth,0.07438016528925619
+242.,date of birth,owns,0.0
+243.,date of birth,parent,0.0044444444444444444
+244.,date of birth,performer In,0.006944444444444444
+245.,date of birth,publishing Principles,0.03945578231292517
+246.,date of birth,related To,0.0
+247.,date of birth,seeks,0.02366863905325444
+248.,date of birth,sibling,0
+249.,date of birth,sponsor,0.00591715976331361
+250.,date of birth,spouse,0.006944444444444444
+251.,date of birth,tax ID,0.02933673469387755
+252.,date of birth,telephone,0.0044444444444444444
+253.,date of birth,vat ID,0.021193771626297576
+254.,date of birth,weight,0.027777777777777776
+255.,date of birth,work Location,0.039053254437869826
+256.,date of birth,works For,0.00510204081632653
+257.,religion,additional Type,0.0
+258.,religion,alternate Name,0.01098901098901099
+259.,religion,description,0.04733727810650888
+260.,religion,disambiguating Description,0.00904977375565611
+261.,religion,identifier,0.04733727810650888
+262.,religion,image,0.25510204081632654
+263.,religion,main Entity Of Page,0.0
+264.,religion,name,0.04733727810650888
+265.,religion,potential Action,0.0
+266.,religion,same As,0
+267.,religion,subject Of,0.05555555555555555
+268.,religion,rl,0
+269.,religion,additional Name,0.0
+270.,religion,address,0.035555555555555556
+271.,religion,affiliation,0.08000000000000002
+272.,religion,alumni Of,0.01020408163265306
+273.,religion,award,0.0703125
+274.,religion,birth Date,0.02366863905325444
+275.,religion,birth Place,0.02366863905325444
+276.,religion,brand,0.04081632653061224
+277.,religion,children,0.01183431952662722
+278.,religion,colleague,0.01020408163265306
+279.,religion,contact Point,0.05882352941176471
+280.,religion,death Date,0.04591836734693877
+281.,religion,death Place,0.04591836734693877
+282.,religion,duns,0.003472222222222222
+283.,religion,email,0.0703125
+284.,religion,family Name,0.02197802197802198
+285.,religion,fax Number,0.011029411764705881
+286.,religion,follows,0.0
+287.,religion,funder,0
+288.,religion,gender,0.04081632653061224
+289.,religion,given Name,0.013986013986013988
+290.,religion,global Location Number,0.0
+291.,religion,has Occupation,0.09183673469387754
+292.,religion,has Offer Catalog,0.04591836734693877
+293.,religion,has POS,0.035555555555555556
+294.,religion,height,0.0703125
+295.,religion,home Location,0.005681818181818182
+296.,religion,honorific Prefix,0.02366863905325444
+297.,religion,honorific Suffix,0.02366863905325444
+298.,religion,isic V4,0
+299.,religion,job Title,0.04591836734693877
+300.,religion,knows,0.14222222222222222
+301.,religion,makes Offer,0.01948051948051948
+302.,religion,member Of,0.01020408163265306
+303.,religion,naics,0
+304.,religion,nationality,0.05555555555555555
+305.,religion,net Worth,0.0
+306.,religion,owns,0.0
+307.,religion,parent,0.0078125
+308.,religion,performer In,0.01183431952662722
+309.,religion,publishing Principles,0.0625
+310.,religion,related To,0.0
+311.,religion,seeks,0.09183673469387754
+312.,religion,sibling,0
+313.,religion,sponsor,0.01020408163265306
+314.,religion,spouse,0.01183431952662722
+315.,religion,tax ID,0.017777777777777778
+316.,religion,telephone,0.0078125
+317.,religion,vat ID,0.012345679012345678
+318.,religion,weight,0.08000000000000002
+319.,religion,work Location,0.04591836734693877
+320.,religion,works For,0.008888888888888889
+321.,educational requirement,additional Type,0.027777777777777776
+322.,educational requirement,alternate Name,0.02040816326530612
+323.,educational requirement,description,0.0
+324.,educational requirement,disambiguating Description,0.02040816326530612
+325.,educational requirement,identifier,0.0
+326.,educational requirement,image,0.0
+327.,educational requirement,main Entity Of Page,0.008230452674897118
+328.,educational requirement,name,0.0
+329.,educational requirement,potential Action,0.1111111111111111
+330.,educational requirement,same As,0
+331.,educational requirement,subject Of,0.0
+332.,educational requirement,rl,0
+333.,educational requirement,additional Name,0.02040816326530612
+334.,educational requirement,address,0.0
+335.,educational requirement,affiliation,0.0
+336.,educational requirement,alumni Of,0.0
+337.,educational requirement,award,0.0
+338.,educational requirement,birth Date,0.02040816326530612
+339.,educational requirement,birth Place,0.01020408163265306
+340.,educational requirement,brand,0.0
+341.,educational requirement,children,0.0
+342.,educational requirement,colleague,0.0
+343.,educational requirement,contact Point,0.049019607843137254
+344.,educational requirement,death Date,0.03809523809523809
+345.,educational requirement,death Place,0.019047619047619046
+346.,educational requirement,duns,0.0
+347.,educational requirement,email,0.0
+348.,educational requirement,family Name,0.02040816326530612
+349.,educational requirement,fax Number,0.017777777777777778
+350.,educational requirement,follows,0.0
+351.,educational requirement,funder,0
+352.,educational requirement,gender,0.0
+353.,educational requirement,given Name,0.02040816326530612
+354.,educational requirement,global Location Number,0.007407407407407407
+355.,educational requirement,has Occupation,0.0
+356.,educational requirement,has Offer Catalog,0.01644736842105263
+357.,educational requirement,has POS,0.0
+358.,educational requirement,height,0.0
+359.,educational requirement,home Location,0.006944444444444444
+360.,educational requirement,honorific Prefix,0.01680672268907563
+361.,educational requirement,honorific Suffix,0.017857142857142856
+362.,educational requirement,isic V4,0
+363.,educational requirement,job Title,0.034722222222222224
+364.,educational requirement,knows,0.0
+365.,educational requirement,makes Offer,0.09765625
+366.,educational requirement,member Of,0.0
+367.,educational requirement,naics,0
+368.,educational requirement,nationality,0.0
+369.,educational requirement,net Worth,0.02366863905325444
+370.,educational requirement,owns,0.0
+371.,educational requirement,parent,0.0
+372.,educational requirement,performer In,0.0
+373.,educational requirement,publishing Principles,0.049342105263157895
+374.,educational requirement,related To,0.0
+375.,educational requirement,seeks,0.0
+376.,educational requirement,sibling,0
+377.,educational requirement,sponsor,0.0
+378.,educational requirement,spouse,0.0
+379.,educational requirement,tax ID,0.006944444444444444
+380.,educational requirement,telephone,0.0
+381.,educational requirement,vat ID,0.005847953216374269
+382.,educational requirement,weight,0.0
+383.,educational requirement,work Location,0.026041666666666664
+384.,educational requirement,works For,0.0
+385.,job title,additional Type,0.017647058823529415
+386.,job title,alternate Name,0.030219780219780223
+387.,job title,description,0.028846153846153848
+388.,job title,disambiguating Description,0.044771634615384616
+389.,job title,identifier,0.028846153846153848
+390.,job title,image,0.04591836734693877
+391.,job title,main Entity Of Page,0.008333333333333333
+392.,job title,name,0.02366863905325444
+393.,job title,potential Action,0.04807692307692308
+394.,job title,same As,0
+395.,job title,subject Of,0.03333333333333333
+396.,job title,rl,0
+397.,job title,additional Name,0.019230769230769232
+398.,job title,address,0.029629629629629627
+399.,job title,affiliation,0.02366863905325444
+400.,job title,alumni Of,0.00510204081632653
+401.,job title,award,0.09765625
+402.,job title,birth Date,0.04289940828402367
+403.,job title,birth Place,0.03328402366863906
+404.,job title,brand,0.02040816326530612
+405.,job title,children,0.00591715976331361
+406.,job title,colleague,0.00510204081632653
+407.,job title,contact Point,0.130718954248366
+408.,job title,death Date,0.10086342229199372
+409.,job title,death Place,0.09068242681688059
+410.,job title,duns,0.001736111111111111
+411.,job title,email,0.09765625
+412.,job title,family Name,0.041208791208791215
+413.,job title,fax Number,0.025210084033613446
+414.,job title,follows,0.0
+415.,job title,funder,0
+416.,job title,gender,0.02040816326530612
+417.,job title,given Name,0.03461538461538462
+418.,job title,global Location Number,0.0071301247771836
+419.,job title,has Occupation,0.8999999999999999
+420.,job title,has Offer Catalog,0.13408696812058157
+421.,job title,has POS,0.017777777777777778
+422.,job title,height,0.02040816326530612
+423.,job title,home Location,0.012175324675324676
+424.,job title,honorific Prefix,0.05228365384615385
+425.,job title,honorific Suffix,0.05384615384615385
+426.,job title,isic V4,0
+427.,job title,job Title,0.8999999999999999
+428.,job title,knows,0.04000000000000001
+429.,job title,makes Offer,0.07773109243697479
+430.,job title,member Of,0.00510204081632653
+431.,job title,naics,0
+432.,job title,nationality,0.027777777777777776
+433.,job title,net Worth,0.02222222222222222
+434.,job title,owns,0.0
+435.,job title,parent,0.00390625
+436.,job title,performer In,0.00591715976331361
+437.,job title,publishing Principles,0.10872741253364092
+438.,job title,related To,0.0
+439.,job title,seeks,0.08163265306122448
+440.,job title,sibling,0
+441.,job title,sponsor,0.00510204081632653
+442.,job title,spouse,0.00591715976331361
+443.,job title,tax ID,0.02431372549019608
+444.,job title,telephone,0.00390625
+445.,job title,vat ID,0.017947919908704223
+446.,job title,weight,0.02366863905325444
+447.,job title,work Location,0.19436865655353047
+448.,job title,works For,0.0044444444444444444
+449.,faculty,additional Type,0.0
+450.,faculty,alternate Name,0.01282051282051282
+451.,faculty,description,0.05555555555555555
+452.,faculty,disambiguating Description,0.01111111111111111
+453.,faculty,identifier,0.05555555555555555
+454.,faculty,image,0.18934911242603553
+455.,faculty,main Entity Of Page,0.0
+456.,faculty,name,0.05555555555555555
+457.,faculty,potential Action,0.0
+458.,faculty,same As,0
+459.,faculty,subject Of,0.06611570247933884
+460.,faculty,rl,0
+461.,faculty,additional Name,0.0
+462.,faculty,address,0.04081632653061224
+463.,faculty,affiliation,0.05555555555555555
+464.,faculty,alumni Of,0.01183431952662722
+465.,faculty,award,0.08000000000000002
+466.,faculty,birth Date,0.027777777777777776
+467.,faculty,birth Place,0.027777777777777776
+468.,faculty,brand,0.04733727810650888
+469.,faculty,children,0.013888888888888888
+470.,faculty,colleague,0.01183431952662722
+471.,faculty,contact Point,0.05357142857142857
+472.,faculty,death Date,0.053254437869822494
+473.,faculty,death Place,0.053254437869822494
+474.,faculty,duns,0.0037807183364839316
+475.,faculty,email,0.08000000000000002
+476.,faculty,family Name,0.02564102564102564
+477.,faculty,fax Number,0.009615384615384616
+478.,faculty,follows,0.0
+479.,faculty,funder,0
+480.,faculty,gender,0.04733727810650888
+481.,faculty,given Name,0.018518518518518517
+482.,faculty,global Location Number,0.0
+483.,faculty,has Occupation,0.10650887573964499
+484.,faculty,has Offer Catalog,0.053254437869822494
+485.,faculty,has POS,0.04081632653061224
+486.,faculty,height,0.04733727810650888
+487.,faculty,home Location,0.006666666666666667
+488.,faculty,honorific Prefix,0.027777777777777776
+489.,faculty,honorific Suffix,0.027777777777777776
+490.,faculty,isic V4,0
+491.,faculty,job Title,0.053254437869822494
+492.,faculty,knows,0.16326530612244897
+493.,faculty,makes Offer,0.02564102564102564
+494.,faculty,member Of,0.01183431952662722
+495.,faculty,naics,0
+496.,faculty,nationality,0.06611570247933884
+497.,faculty,net Worth,0.0
+498.,faculty,owns,0.0
+499.,faculty,parent,0.008888888888888889
+500.,faculty,performer In,0.013888888888888888
+501.,faculty,publishing Principles,0.05714285714285714
+502.,faculty,related To,0.0
+503.,faculty,seeks,0.10650887573964499
+504.,faculty,sibling,0
+505.,faculty,sponsor,0.01183431952662722
+506.,faculty,spouse,0.013888888888888888
+507.,faculty,tax ID,0.02040816326530612
+508.,faculty,telephone,0.008888888888888889
+509.,faculty,vat ID,0.01384083044982699
+510.,faculty,weight,0.05555555555555555
+511.,faculty,work Location,0.053254437869822494
+512.,faculty,works For,0.01020408163265306
+513.,department,additional Type,0.0
+514.,department,alternate Name,0.008333333333333333
+515.,department,description,0.035555555555555556
+516.,department,disambiguating Description,0.007407407407407407
+517.,department,identifier,0.035555555555555556
+518.,department,image,0.03125
+519.,department,main Entity Of Page,0.0
+520.,department,name,0.035555555555555556
+521.,department,potential Action,0.0
+522.,department,same As,0
+523.,department,subject Of,0.04081632653061224
+524.,department,rl,0
+525.,department,additional Name,0.0
+526.,department,address,0.02768166089965398
+527.,department,affiliation,0.035555555555555556
+528.,department,alumni Of,0.0078125
+529.,department,award,0.024691358024691357
+530.,department,birth Date,0.017777777777777778
+531.,department,birth Place,0.017777777777777778
+532.,department,brand,0.03125
+533.,department,children,0.008888888888888889
+534.,department,colleague,0.0078125
+535.,department,contact Point,0.01384083044982699
+536.,department,death Date,0.016666666666666666
+537.,department,death Place,0.015625
+538.,department,duns,0.002958579881656805
+539.,department,email,0.024691358024691357
+540.,department,family Name,0.140625
+541.,department,fax Number,0.006578947368421052
+542.,department,follows,0.0
+543.,department,funder,0
+544.,department,gender,0.0703125
+545.,department,given Name,0.01111111111111111
+546.,department,global Location Number,0.0
+547.,department,has Occupation,0.03125
+548.,department,has Offer Catalog,0.015625
+549.,department,has POS,0.02768166089965398
+550.,department,height,0.03125
+551.,department,home Location,0.004273504273504274
+552.,department,honorific Prefix,0.017777777777777778
+553.,department,honorific Suffix,0.017777777777777778
+554.,department,isic V4,0
+555.,department,job Title,0.015625
+556.,department,knows,0.02768166089965398
+557.,department,makes Offer,0.010416666666666666
+558.,department,member Of,0.0078125
+559.,department,naics,0
+560.,department,nationality,0.09183673469387754
+561.,department,net Worth,0.0
+562.,department,owns,0.0
+563.,department,parent,0.006172839506172839
+564.,department,performer In,0.008888888888888889
+565.,department,publishing Principles,0.0130718954248366
+566.,department,related To,0.0
+567.,department,seeks,0.03125
+568.,department,sibling,0
+569.,department,sponsor,0.0078125
+570.,department,spouse,0.008888888888888889
+571.,department,tax ID,0.01384083044982699
+572.,department,telephone,0.006172839506172839
+573.,department,vat ID,0.010000000000000002
+574.,department,weight,0.035555555555555556
+575.,department,work Location,0.015625
+576.,department,works For,0.006920415224913495
+577.,classroom,additional Type,0.0
+578.,classroom,alternate Name,0.04432132963988919
+579.,classroom,description,0.008888888888888889
+580.,classroom,disambiguating Description,0.0037037037037037034
+581.,classroom,identifier,0.008888888888888889
+582.,classroom,image,0.0078125
+583.,classroom,main Entity Of Page,0.0
+584.,classroom,name,0.008888888888888889
+585.,classroom,potential Action,0.0
+586.,classroom,same As,0
+587.,classroom,subject Of,0.01020408163265306
+588.,classroom,rl,0
+589.,classroom,additional Name,0.0
+590.,classroom,address,0.006920415224913495
+591.,classroom,affiliation,0.008888888888888889
+592.,classroom,alumni Of,0.08864265927977838
+593.,classroom,award,0.006172839506172839
+594.,classroom,birth Date,0.0044444444444444444
+595.,classroom,birth Place,0.013333333333333334
+596.,classroom,brand,0.0078125
+597.,classroom,children,0.09876543209876543
+598.,classroom,colleague,0.08864265927977838
+599.,classroom,contact Point,0.0034602076124567475
+600.,classroom,death Date,0.004166666666666667
+601.,classroom,death Place,0.0125
+602.,classroom,duns,0.04733727810650888
+603.,classroom,email,0.006172839506172839
+604.,classroom,family Name,0.004166666666666667
+605.,classroom,fax Number,0.06925207756232686
+606.,classroom,follows,0.0
+607.,classroom,funder,0
+608.,classroom,gender,0.0078125
+609.,classroom,given Name,0.005555555555555555
+610.,classroom,global Location Number,0.0
+611.,classroom,has Occupation,0.0078125
+612.,classroom,has Offer Catalog,0.015625
+613.,classroom,has POS,0.03125
+614.,classroom,height,0.0078125
+615.,classroom,home Location,0.038461538461538464
+616.,classroom,honorific Prefix,0.0044444444444444444
+617.,classroom,honorific Suffix,0.0044444444444444444
+618.,classroom,isic V4,0
+619.,classroom,job Title,0.00390625
+620.,classroom,knows,0.006920415224913495
+621.,classroom,makes Offer,0.005208333333333333
+622.,classroom,member Of,0.08864265927977838
+623.,classroom,naics,0
+624.,classroom,nationality,0.01020408163265306
+625.,classroom,net Worth,0.0
+626.,classroom,owns,0.0
+627.,classroom,parent,0.07256235827664398
+628.,classroom,performer In,0.09876543209876543
+629.,classroom,publishing Principles,0.00326797385620915
+630.,classroom,related To,0.0
+631.,classroom,seeks,0.0078125
+632.,classroom,sibling,0
+633.,classroom,sponsor,0.08864265927977838
+634.,classroom,spouse,0.09876543209876543
+635.,classroom,tax ID,0.009287925696594427
+636.,classroom,telephone,0.154320987654321
+637.,classroom,vat ID,0.007894736842105263
+638.,classroom,weight,0.008888888888888889
+639.,classroom,work Location,0.014423076923076924
+640.,classroom,works For,0.24913494809688586
+641.,have a job,additional Type,0.0
+642.,have a job,alternate Name,0.01098901098901099
+643.,have a job,description,0.04733727810650888
+644.,have a job,disambiguating Description,0.009615384615384616
+645.,have a job,identifier,0.04733727810650888
+646.,have a job,image,0.09183673469387754
+647.,have a job,main Entity Of Page,0.0
+648.,have a job,name,0.04733727810650888
+649.,have a job,potential Action,0.0
+650.,have a job,same As,0
+651.,have a job,subject Of,0.05555555555555555
+652.,have a job,rl,0
+653.,have a job,additional Name,0.0
+654.,have a job,address,0.035555555555555556
+655.,have a job,affiliation,0.04733727810650888
+656.,have a job,alumni Of,0.01020408163265306
+657.,have a job,award,0.1953125
+658.,have a job,birth Date,0.02366863905325444
+659.,have a job,birth Place,0.02366863905325444
+660.,have a job,brand,0.04081632653061224
+661.,have a job,children,0.01183431952662722
+662.,have a job,colleague,0.01020408163265306
+663.,have a job,contact Point,0.1111111111111111
+664.,have a job,death Date,0.08163265306122448
+665.,have a job,death Place,0.08163265306122448
+666.,have a job,duns,0.003472222222222222
+667.,have a job,email,0.1953125
+668.,have a job,family Name,0.02197802197802198
+669.,have a job,fax Number,0.008403361344537815
+670.,have a job,follows,0.0
+671.,have a job,funder,0
+672.,have a job,gender,0.04081632653061224
+673.,have a job,given Name,0.015384615384615385
+674.,have a job,global Location Number,0.0
+675.,have a job,has Occupation,0.8999999999999999
+676.,have a job,has Offer Catalog,0.12755102040816327
+677.,have a job,has POS,0.035555555555555556
+678.,have a job,height,0.04081632653061224
+679.,have a job,home Location,0.005681818181818182
+680.,have a job,honorific Prefix,0.02366863905325444
+681.,have a job,honorific Suffix,0.02366863905325444
+682.,have a job,isic V4,0
+683.,have a job,job Title,0.8999999999999999
+684.,have a job,knows,0.08000000000000002
+685.,have a job,makes Offer,0.03571428571428572
+686.,have a job,member Of,0.01020408163265306
+687.,have a job,naics,0
+688.,have a job,nationality,0.05555555555555555
+689.,have a job,net Worth,0.0
+690.,have a job,owns,0.0
+691.,have a job,parent,0.0078125
+692.,have a job,performer In,0.01183431952662722
+693.,have a job,publishing Principles,0.08650519031141869
+694.,have a job,related To,0.0
+695.,have a job,seeks,0.16326530612244897
+696.,have a job,sibling,0
+697.,have a job,sponsor,0.01020408163265306
+698.,have a job,spouse,0.01183431952662722
+699.,have a job,tax ID,0.017777777777777778
+700.,have a job,telephone,0.0078125
+701.,have a job,vat ID,0.012345679012345678
+702.,have a job,weight,0.04733727810650888
+703.,have a job,work Location,0.18367346938775508
+704.,have a job,works For,0.008888888888888889
+705.,role name,additional Type,0.019736842105263157
+706.,role name,alternate Name,0.9092307692307692
+707.,role name,description,0.02222222222222222
+708.,role name,disambiguating Description,0.03666666666666667
+709.,role name,identifier,0.02222222222222222
+710.,role name,image,0.03515625
+711.,role name,main Entity Of Page,0.023809523809523808
+712.,role name,name,0.12
+713.,role name,potential Action,0.05555555555555555
+714.,role name,same As,0
+715.,role name,subject Of,0.025974025974025972
+716.,role name,rl,0
+717.,role name,additional Name,0.8999999999999999
+718.,role name,address,0.01680672268907563
+719.,role name,affiliation,0.02222222222222222
+720.,role name,alumni Of,0.004807692307692308
+721.,role name,award,0.0771604938271605
+722.,role name,birth Date,0.049999999999999996
+723.,role name,birth Place,0.03611111111111111
+724.,role name,brand,0.057692307692307696
+725.,role name,children,0.005555555555555555
+726.,role name,colleague,0.004807692307692308
+727.,role name,contact Point,0.1090615812888623
+728.,role name,death Date,0.09027777777777778
+729.,role name,death Place,0.07532051282051282
+730.,role name,duns,0.0016722408026755853
+731.,role name,email,0.0771604938271605
+732.,role name,family Name,0.9184615384615383
+733.,role name,fax Number,0.03148113905325444
+734.,role name,follows,0.0
+735.,role name,funder,0
+736.,role name,gender,0.019230769230769232
+737.,role name,given Name,0.9133333333333333
+738.,role name,global Location Number,0.010256410256410256
+739.,role name,has Occupation,0.140625
+740.,role name,has Offer Catalog,0.1067060237556561
+741.,role name,has POS,0.03361344537815126
+742.,role name,height,0.019230769230769232
+743.,role name,home Location,0.01512820512820513
+744.,role name,honorific Prefix,0.13333333333333333
+745.,role name,honorific Suffix,0.1497732426303855
+746.,role name,isic V4,0
+747.,role name,job Title,0.15985576923076922
+748.,role name,knows,0.031141868512110732
+749.,role name,makes Offer,0.08279914529914531
+750.,role name,member Of,0.004807692307692308
+751.,role name,naics,0
+752.,role name,nationality,0.025974025974025972
+753.,role name,net Worth,0.03305785123966942
+754.,role name,owns,0.0
+755.,role name,parent,0.0037037037037037034
+756.,role name,performer In,0.005555555555555555
+757.,role name,publishing Principles,0.09446216159594031
+758.,role name,related To,0.0
+759.,role name,seeks,0.0625
+760.,role name,sibling,0
+761.,role name,sponsor,0.004807692307692308
+762.,role name,spouse,0.005555555555555555
+763.,role name,tax ID,0.03860294117647058
+764.,role name,telephone,0.0037037037037037034
+765.,role name,vat ID,0.028676470588235296
+766.,role name,weight,0.02222222222222222
+767.,role name,work Location,0.20679086538461539
+768.,role name,works For,0.004201680672268907

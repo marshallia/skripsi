@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,clipNumber,"Integer,Text,"
+3,director,"Person,"
+4,musicBy,"MusicGroup,Person,"
+5,partOfEpisode,"Episode,"
+6,partOfSeason,"CreativeWorkSeason,"
+7,partOfSeries,"CreativeWorkSeries,"

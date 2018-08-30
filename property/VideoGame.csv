@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,cheatCode,"CreativeWork,"
+3,director,"Person,"
+4,gamePlatform,"Text,Thing,URL,"
+5,gameServer,"GameServer,"
+6,gameTip,"CreativeWork,"
+7,musicBy,"MusicGroup,Person,"
+8,playMode,"GamePlayMode,"
+9,trailer,"VideoObject,"

@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,assemblyVersion,"Text,"
+2,executableLibraryName,"Text,"
+3,programmingModel,"Text,"
+4,targetPlatform,"Text,"

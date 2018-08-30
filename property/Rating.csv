@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,author,"Organization,Person,"
+2,bestRating,"Number,Text,"
+3,ratingValue,"Number,Text,"
+4,reviewAspect,"Text,"
+5,worstRating,"Number,Text,"

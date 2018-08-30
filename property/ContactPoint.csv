@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,areaServed,"AdministrativeArea,GeoShape,Place,Text,"
+2,availableLanguage,"Language,Text,"
+3,contactOption,"ContactPointOption,"
+4,contactType,"Text,"
+5,email,"Text,"
+6,faxNumber,"Text,"
+7,hoursAvailable,"OpeningHoursSpecification,"
+8,productSupported,"Product,Text,"
+9,telephone,"Text,"

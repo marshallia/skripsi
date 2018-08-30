@@ -1,0 +1,13 @@
+No,Property, Expected Type
+1,calories,"Energy,"
+2,carbohydrateContent,"Mass,"
+3,cholesterolContent,"Mass,"
+4,fatContent,"Mass,"
+5,fiberContent,"Mass,"
+6,proteinContent,"Mass,"
+7,saturatedFatContent,"Mass,"
+8,servingSize,"Text,"
+9,sodiumContent,"Mass,"
+10,sugarContent,"Mass,"
+11,transFatContent,"Mass,"
+12,unsaturatedFatContent,"Mass,"

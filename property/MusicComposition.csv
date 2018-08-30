@@ -1,0 +1,11 @@
+No,Property, Expected Type
+1,composer,"Organization,Person,"
+2,firstPerformance,"Event,"
+3,includedComposition,"MusicComposition,"
+4,iswcCode,"Text,"
+5,lyricist,"Person,"
+6,lyrics,"CreativeWork,"
+7,musicArrangement,"MusicComposition,"
+8,musicCompositionForm,"Text,"
+9,musicalKey,"Text,"
+10,recordedAs,"MusicRecording,"

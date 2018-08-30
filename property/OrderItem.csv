@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,orderDelivery,"ParcelDelivery,"
+2,orderItemNumber,"Text,"
+3,orderItemStatus,"OrderStatus,"
+4,orderQuantity,"Number,"
+5,orderedItem,"OrderItem,Product,"

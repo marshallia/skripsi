@@ -1,0 +1,11 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,director,"Person,"
+3,endDate,"Date,DateTime,"
+4,episode,"Episode,"
+5,numberOfEpisodes,"Integer,"
+6,partOfSeries,"CreativeWorkSeries,"
+7,productionCompany,"Organization,"
+8,seasonNumber,"Integer,Text,"
+9,startDate,"Date,DateTime,"
+10,trailer,"VideoObject,"

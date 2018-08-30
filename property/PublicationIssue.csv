@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,issueNumber,"Integer,Text,"
+2,pageEnd,"Integer,Text,"
+3,pageStart,"Integer,Text,"
+4,pagination,"Text,"

@@ -1,0 +1,13 @@
+No,Property, Expected Type
+1,bookingTime,"DateTime,"
+2,broker,"Organization,Person,"
+3,modifiedTime,"DateTime,"
+4,priceCurrency,"Text,"
+5,programMembershipUsed,"ProgramMembership,"
+6,provider,"Organization,Person,"
+7,reservationFor,"Thing,"
+8,reservationId,"Text,"
+9,reservationStatus,"ReservationStatusType,"
+10,reservedTicket,"Ticket,"
+11,totalPrice,"Number,PriceSpecification,Text,"
+12,underName,"Organization,Person,"

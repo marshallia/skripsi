@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,characterAttribute,"Thing,"
+2,gameItem,"Thing,"
+3,gameLocation,"Place,PostalAddress,URL,"
+4,numberOfPlayers,"QuantitativeValue,"
+5,quest,"Thing,"

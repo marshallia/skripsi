@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,hoursAvailable,"OpeningHoursSpecification,"
+2,validFrom,"DateTime,"
+3,validThrough,"DateTime,"

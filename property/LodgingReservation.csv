@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,checkinTime,"DateTime,"
+2,checkoutTime,"DateTime,"
+3,lodgingUnitDescription,"Text,"
+4,lodgingUnitType,"QualitativeValue,Text,"
+5,numAdults,"Integer,QuantitativeValue,"
+6,numChildren,"Integer,QuantitativeValue,"

@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,bed,"BedDetails,BedType,Text,"
+2,numberOfRooms,"Number,QuantitativeValue,"
+3,occupancy,"QuantitativeValue,"

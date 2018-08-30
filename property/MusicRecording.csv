@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,byArtist,"MusicGroup,"
+2,duration,"Duration,"
+3,inAlbum,"MusicAlbum,"
+4,inPlaylist,"MusicPlaylist,"
+5,isrcCode,"Text,"
+6,recordingOf,"MusicComposition,"

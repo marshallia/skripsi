@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,acceptedAnswer,"Answer,"
+2,answerCount,"Integer,"
+3,downvoteCount,"Integer,"
+4,suggestedAnswer,"Answer,"
+5,upvoteCount,"Integer,"

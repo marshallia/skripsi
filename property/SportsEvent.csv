@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,awayTeam,"Person,SportsTeam,"
+2,competitor,"Person,SportsTeam,"
+3,homeTeam,"Person,SportsTeam,"

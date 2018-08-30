@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,accountMinimumInflow,"MonetaryAmount,"
+2,accountOverdraftLimit,"MonetaryAmount,"
+3,bankAccountType,"Text,URL,"

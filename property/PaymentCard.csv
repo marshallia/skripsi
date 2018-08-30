@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,cashBack,"Boolean,Number,"
+2,contactlessPayment,"Boolean,"
+3,floorLimit,"MonetaryAmount,"

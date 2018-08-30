@@ -1,0 +1,12 @@
+No,Property, Expected Type
+1,deliveryAddress,"PostalAddress,"
+2,deliveryStatus,"DeliveryEvent,"
+3,expectedArrivalFrom,"DateTime,"
+4,expectedArrivalUntil,"DateTime,"
+5,hasDeliveryMethod,"DeliveryMethod,"
+6,itemShipped,"Product,"
+7,originAddress,"PostalAddress,"
+8,partOfOrder,"Order,"
+9,provider,"Organization,Person,"
+10,trackingNumber,"Text,"
+11,trackingUrl,"URL,"

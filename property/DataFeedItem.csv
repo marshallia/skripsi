@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,dateCreated,"Date,DateTime,"
+2,dateDeleted,"DateTime,"
+3,dateModified,"Date,DateTime,"
+4,item,"Thing,"

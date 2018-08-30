@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,seatNumber,"Text,"
+2,seatRow,"Text,"
+3,seatSection,"Text,"
+4,seatingType,"QualitativeValue,Text,"

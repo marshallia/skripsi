@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,cookTime,"Duration,"
+2,cookingMethod,"Text,"
+3,nutrition,"NutritionInformation,"
+4,recipeCategory,"Text,"
+5,recipeCuisine,"Text,"
+6,recipeIngredient,"Text,"
+7,recipeInstructions,"CreativeWork,ItemList,Text,"
+8,recipeYield,"QuantitativeValue,Text,"
+9,suitableForDiet,"RestrictedDiet,"

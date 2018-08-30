@@ -1,0 +1,13 @@
+No,Property, Expected Type
+1,artEdition,"Integer,Text,"
+2,artMedium,"Text,URL,"
+3,artform,"Text,URL,"
+4,artist,"Person,"
+5,artworkSurface,"Text,URL,"
+6,colorist,"Person,"
+7,depth,"Distance,QuantitativeValue,"
+8,height,"Distance,QuantitativeValue,"
+9,inker,"Person,"
+10,letterer,"Person,"
+11,penciler,"Person,"
+12,width,"Distance,QuantitativeValue,"

@@ -1,0 +1,13 @@
+No,Property, Expected Type
+1,additionalType,"URL,"
+2,alternateName,"Text,"
+3,description,"Text,"
+4,disambiguatingDescription,"Text,"
+5,identifier,"PropertyValue,Text,URL,"
+6,image,"ImageObject,URL,"
+7,mainEntityOfPage,"CreativeWork,URL,"
+8,name,"Text,"
+9,potentialAction,"Action,"
+10,sameAs,"URL,"
+11,subjectOf,"CreativeWork,Event,"
+12,url,"URL,"

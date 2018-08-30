@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,hostingOrganization,"Organization,"
+2,member,"Organization,Person,"
+3,membershipNumber,"Text,"
+4,programName,"Text,"

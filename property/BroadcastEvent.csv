@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,broadcastOfEvent,"Event,"
+2,isLiveBroadcast,"Boolean,"
+3,videoFormat,"Text,"

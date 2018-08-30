@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,caption,"Text,"
+2,exifData,"PropertyValue,Text,"
+3,representativeOfPage,"Boolean,"
+4,thumbnail,"ImageObject,"

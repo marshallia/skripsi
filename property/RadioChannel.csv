@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,broadcastChannelId,"Text,"
+2,broadcastFrequency,"BroadcastFrequencySpecification,Text,"
+3,broadcastServiceTier,"Text,"
+4,genre,"Text,URL,"
+5,inBroadcastLineup,"CableOrSatelliteService,"
+6,providesBroadcastService,"BroadcastService,"

@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,abridged,"Boolean,"
+2,bookEdition,"Text,"
+3,bookFormat,"BookFormatType,"
+4,illustrator,"Person,"
+5,isbn,"Text,"
+6,numberOfPages,"Integer,"

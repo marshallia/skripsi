@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,itemReviewed,"Thing,"
+2,ratingCount,"Integer,"
+3,reviewCount,"Integer,"

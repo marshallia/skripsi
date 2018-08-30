@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,actionApplication,"SoftwareApplication,"
+2,actionPlatform,"Text,URL,"
+3,contentType,"Text,"
+4,encodingType,"Text,"
+5,httpMethod,"Text,"
+6,urlTemplate,"Text,"

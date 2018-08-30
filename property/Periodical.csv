@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,endDate,"Date,DateTime,"
+2,issn,"Text,"
+3,startDate,"Date,DateTime,"

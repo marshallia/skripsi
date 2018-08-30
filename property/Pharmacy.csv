@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,healthPlanNetworkId,"Text,"
+2,isAcceptingNewPatients,"Boolean,"
+3,medicalSpecialty,"MedicalSpecialty,"

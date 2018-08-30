@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,arrivalBusStop,"BusStation,BusStop,"
+2,arrivalTime,"DateTime,"
+3,busName,"Text,"
+4,busNumber,"Text,"
+5,departureBusStop,"BusStation,BusStop,"
+6,departureTime,"DateTime,"
+7,provider,"Organization,Person,"

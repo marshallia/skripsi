@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,healthCondition,"MedicalCondition,"
+2,requiredGender,"Text,"
+3,requiredMaxAge,"Integer,"
+4,requiredMinAge,"Integer,"
+5,suggestedGender,"Text,"
+6,suggestedMaxAge,"Number,"
+7,suggestedMinAge,"Number,"

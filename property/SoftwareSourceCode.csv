@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,codeRepository,"URL,"
+2,codeSampleType,"Text,"
+3,programmingLanguage,"ComputerLanguage,Text,"
+4,runtimePlatform,"Text,"
+5,targetProduct,"SoftwareApplication,"

@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,addressCountry,"Country,Text,"
+2,addressLocality,"Text,"
+3,addressRegion,"Text,"
+4,postOfficeBoxNumber,"Text,"
+5,postalCode,"Text,"
+6,streetAddress,"Text,"

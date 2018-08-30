@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,broadcastAffiliateOf,"Organization,"
+2,broadcastDisplayName,"Text,"
+3,broadcastFrequency,"BroadcastFrequencySpecification,Text,"
+4,broadcastTimezone,"Text,"
+5,broadcaster,"Organization,"
+6,hasBroadcastChannel,"BroadcastChannel,"
+7,parentService,"BroadcastService,"
+8,videoFormat,"Text,"

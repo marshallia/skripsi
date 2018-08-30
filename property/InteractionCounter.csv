@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,interactionService,"SoftwareApplication,WebSite,"
+2,interactionType,"Action,"
+3,userInteractionCount,"Integer,"

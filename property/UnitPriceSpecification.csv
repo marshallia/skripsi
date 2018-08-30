@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,billingIncrement,"Number,"
+2,priceType,"Text,"
+3,referenceQuantity,"QuantitativeValue,"
+4,unitCode,"Text,URL,"
+5,unitText,"Text,"

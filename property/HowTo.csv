@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,estimatedCost,"MonetaryAmount,Text,"
+2,performTime,"Duration,"
+3,prepTime,"Duration,"
+4,step,"CreativeWork,HowToSection,HowToStep,Text,"
+5,supply,"HowToSupply,Text,"
+6,tool,"HowToTool,Text,"
+7,totalTime,"Duration,"
+8,yield,"QuantitativeValue,Text,"

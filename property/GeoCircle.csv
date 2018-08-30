@@ -1,0 +1,3 @@
+No,Property, Expected Type
+1,geoMidpoint,"GeoCoordinates,"
+2,geoRadius,"Distance,Number,Text,"

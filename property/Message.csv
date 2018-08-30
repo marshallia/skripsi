@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,bccRecipient,"ContactPoint,Organization,Person,"
+2,ccRecipient,"ContactPoint,Organization,Person,"
+3,dateRead,"DateTime,"
+4,dateReceived,"DateTime,"
+5,dateSent,"DateTime,"
+6,messageAttachment,"CreativeWork,"
+7,recipient,"Audience,ContactPoint,Organization,Person,"
+8,sender,"Audience,Organization,Person,"
+9,toRecipient,"Audience,ContactPoint,Organization,Person,"

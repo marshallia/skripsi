@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,availableLanguage,"Language,Text,"
+2,processingTime,"Duration,"
+3,providesService,"Service,"
+4,serviceLocation,"Place,"
+5,servicePhone,"ContactPoint,"
+6,servicePostalAddress,"PostalAddress,"
+7,serviceSmsNumber,"ContactPoint,"
+8,serviceUrl,"URL,"

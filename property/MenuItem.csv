@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,menuAddOn,"MenuItem,MenuSection,"
+2,nutrition,"NutritionInformation,"
+3,offers,"Offer,"
+4,suitableForDiet,"RestrictedDiet,"

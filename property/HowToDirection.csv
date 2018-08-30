@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,afterMedia,"MediaObject,"
+2,beforeMedia,"MediaObject,"
+3,duringMedia,"MediaObject,"
+4,performTime,"Duration,"
+5,prepTime,"Duration,"
+6,supply,"HowToSupply,Text,"
+7,tool,"HowToTool,Text,"
+8,totalTime,"Duration,"

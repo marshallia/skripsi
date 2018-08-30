@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,amenityFeature,"LocationFeatureSpecification,"
+2,floorSize,"QuantitativeValue,"
+3,numberOfRooms,"Number,QuantitativeValue,"
+4,permittedUsage,"Text,"
+5,petsAllowed,"Boolean,Text,"

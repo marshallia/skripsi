@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,numberOfEmployees,"QuantitativeValue,"
+2,yearlyRevenue,"QuantitativeValue,"
+3,yearsInOperation,"QuantitativeValue,"

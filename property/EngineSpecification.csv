@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,engineDisplacement,"QuantitativeValue,"
+2,enginePower,"QuantitativeValue,"
+3,engineType,"QualitativeValue,Text,URL,"
+4,fuelType,"QualitativeValue,Text,URL,"
+5,torque,"QuantitativeValue,"

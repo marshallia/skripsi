@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,caption,"Text,"
+3,director,"Person,"
+4,musicBy,"MusicGroup,Person,"
+5,thumbnail,"ImageObject,"
+6,transcript,"Text,"
+7,videoFrameSize,"Text,"
+8,videoQuality,"Text,"

@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,amenityFeature,"LocationFeatureSpecification,"
+2,audience,"Audience,"
+3,availableLanguage,"Language,Text,"
+4,checkinTime,"DateTime,"
+5,checkoutTime,"DateTime,"
+6,petsAllowed,"Boolean,Text,"
+7,starRating,"Rating,"

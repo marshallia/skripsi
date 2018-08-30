@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,countryOfOrigin,"Country,"
+3,director,"Person,"
+4,duration,"Duration,"
+5,musicBy,"MusicGroup,Person,"
+6,productionCompany,"Organization,"
+7,subtitleLanguage,"Language,Text,"
+8,trailer,"VideoObject,"

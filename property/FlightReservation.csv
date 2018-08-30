@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,boardingGroup,"Text,"
+2,passengerPriorityStatus,"QualitativeValue,Text,"
+3,passengerSequenceNumber,"Text,"
+4,securityScreening,"Text,"

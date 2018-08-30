@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,articleBody,"Text,"
+2,articleSection,"Text,"
+3,pageEnd,"Integer,Text,"
+4,pageStart,"Integer,Text,"
+5,pagination,"Text,"
+6,speakable,"SpeakableSpecification,URL,"
+7,wordCount,"Integer,"

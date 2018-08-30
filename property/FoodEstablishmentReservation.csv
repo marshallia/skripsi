@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,endTime,"DateTime,"
+2,partySize,"Integer,QuantitativeValue,"
+3,startTime,"DateTime,"

@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,itemReviewed,"Thing,"
+2,reviewAspect,"Text,"
+3,reviewBody,"Text,"
+4,reviewRating,"Rating,"

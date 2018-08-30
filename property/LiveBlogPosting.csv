@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,coverageEndTime,"DateTime,"
+2,coverageStartTime,"DateTime,"
+3,liveBlogUpdate,"BlogPosting,"

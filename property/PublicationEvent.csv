@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,isAccessibleForFree,"Boolean,"
+2,publishedBy,"Organization,Person,"
+3,publishedOn,"BroadcastService,"

@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,dateIssued,"DateTime,"
+2,issuedBy,"Organization,"
+3,priceCurrency,"Text,"
+4,ticketNumber,"Text,"
+5,ticketToken,"Text,URL,"
+6,ticketedSeat,"Seat,"
+7,totalPrice,"Number,PriceSpecification,Text,"
+8,underName,"Organization,Person,"

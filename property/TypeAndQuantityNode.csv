@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,amountOfThisGood,"Number,"
+2,businessFunction,"BusinessFunction,"
+3,typeOfGood,"Product,Service,"
+4,unitCode,"Text,URL,"
+5,unitText,"Text,"

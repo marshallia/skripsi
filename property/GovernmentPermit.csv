@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,issuedBy,"Organization,"
+2,issuedThrough,"Service,"
+3,permitAudience,"Audience,"
+4,validFor,"Duration,"
+5,validFrom,"DateTime,"
+6,validIn,"AdministrativeArea,"
+7,validUntil,"Date,"

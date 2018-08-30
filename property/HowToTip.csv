@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,item,"Thing,"
+2,nextItem,"ListItem,"
+3,position,"Integer,Text,"
+4,previousItem,"ListItem,"

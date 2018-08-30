@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,acceptsReservations,"Boolean,Text,URL,"
+2,hasMenu,"Menu,Text,URL,"
+3,servesCuisine,"Text,"
+4,starRating,"Rating,"

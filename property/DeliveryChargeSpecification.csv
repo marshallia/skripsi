@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,appliesToDeliveryMethod,"DeliveryMethod,"
+2,areaServed,"AdministrativeArea,GeoShape,Place,Text,"
+3,eligibleRegion,"GeoShape,Place,Text,"
+4,ineligibleRegion,"GeoShape,Place,Text,"

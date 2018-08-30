@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,albumProductionType,"MusicAlbumProductionType,"
+2,albumRelease,"MusicRelease,"
+3,albumReleaseType,"MusicAlbumReleaseType,"
+4,byArtist,"MusicGroup,"

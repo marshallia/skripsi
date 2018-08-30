@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,isVariantOf,"ProductModel,"
+2,predecessorOf,"ProductModel,"
+3,successorOf,"ProductModel,"

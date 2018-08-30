@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,director,"Person,"
+3,episodeNumber,"Integer,Text,"
+4,musicBy,"MusicGroup,Person,"
+5,partOfSeason,"CreativeWorkSeason,"
+6,partOfSeries,"CreativeWorkSeries,"
+7,productionCompany,"Organization,"
+8,trailer,"VideoObject,"

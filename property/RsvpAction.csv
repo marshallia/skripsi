@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,additionalNumberOfGuests,"Number,"
+2,comment,"Comment,"
+3,rsvpResponse,"RsvpResponseType,"

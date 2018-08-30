@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,album,"MusicAlbum,"
+2,genre,"Text,URL,"
+3,track,"ItemList,MusicRecording,"

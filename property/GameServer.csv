@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,game,"VideoGame,"
+2,playersOnline,"Integer,"
+3,serverStatus,"GameServerStatus,"

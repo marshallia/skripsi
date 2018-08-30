@@ -1,0 +1,13 @@
+No,Property, Expected Type
+1,diet,"Diet,"
+2,distance,"Distance,"
+3,exerciseCourse,"Place,"
+4,exercisePlan,"ExercisePlan,"
+5,exerciseRelatedDiet,"Diet,"
+6,exerciseType,"Text,"
+7,fromLocation,"Place,"
+8,opponent,"Person,"
+9,sportsActivityLocation,"SportsActivityLocation,"
+10,sportsEvent,"SportsEvent,"
+11,sportsTeam,"SportsTeam,"
+12,toLocation,"Place,"

@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,distribution,"DataDownload,"
+2,includedInDataCatalog,"DataCatalog,"
+3,issn,"Text,"
+4,measurementTechnique,"Text,URL,"
+5,variableMeasured,"PropertyValue,Text,"

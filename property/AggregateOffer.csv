@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,highPrice,"Number,Text,"
+2,lowPrice,"Number,Text,"
+3,offerCount,"Integer,"
+4,offers,"Offer,"

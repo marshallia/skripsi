@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,downvoteCount,"Integer,"
+2,parentItem,"Question,"
+3,upvoteCount,"Integer,"

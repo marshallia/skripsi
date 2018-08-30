@@ -1,0 +1,513 @@
+atribut,property,score
+name,additional Type,0.0
+name,alternate Name,0.06923076923076923
+name,description,0.05555555555555555
+name,disambiguating Description,0.01111111111111111
+name,identifier,0.05555555555555555
+name,image,0.04733727810650888
+name,main Entity Of Page,0.0
+name,name,0.8999999999999999
+name,potential Action,0.0
+name,same As,0
+name,subject Of,0.06611570247933884
+name,rl,0
+name,additional Name,0.0
+name,address,0.04081632653061224
+name,affiliation,0.05555555555555555
+name,alumni Of,0.01183431952662722
+name,award,0.035555555555555556
+name,birth Date,0.027777777777777776
+name,birth Place,0.027777777777777776
+name,brand,0.42603550295857995
+name,children,0.013888888888888888
+name,colleague,0.01183431952662722
+name,contact Point,0.02040816326530612
+name,death Date,0.02564102564102564
+name,death Place,0.02366863905325444
+name,duns,0.0037807183364839316
+name,email,0.035555555555555556
+name,family Name,0.13846153846153847
+name,fax Number,0.009615384615384616
+name,follows,0.0
+name,funder,0
+name,gender,0.04733727810650888
+name,given Name,0.09999999999999999
+name,global Location Number,0.0
+name,has Occupation,0.04733727810650888
+name,has Offer Catalog,0.02366863905325444
+name,has POS,0.16326530612244897
+name,height,0.04733727810650888
+name,home Location,0.006666666666666667
+name,honorific Prefix,0.05555555555555555
+name,honorific Suffix,0.05952380952380952
+name,isic V4,0
+name,job Title,0.02366863905325444
+name,knows,0.04081632653061224
+name,makes Offer,0.017094017094017096
+name,member Of,0.01183431952662722
+name,naics,0
+name,nationality,0.06611570247933884
+name,net Worth,0.0
+name,owns,0.0
+name,parent,0.008888888888888889
+name,performer In,0.013888888888888888
+name,publishing Principles,0.019047619047619046
+name,related To,0.0
+name,seeks,0.04733727810650888
+name,sibling,0
+name,sponsor,0.01183431952662722
+name,spouse,0.013888888888888888
+name,tax ID,0.04591836734693877
+name,telephone,0.008888888888888889
+name,vat ID,0.031141868512110732
+name,weight,0.05555555555555555
+name,work Location,0.02366863905325444
+name,works For,0.01020408163265306
+nim,additional Type,0.0
+nim,alternate Name,0.008333333333333333
+nim,description,0.035555555555555556
+nim,disambiguating Description,0.007407407407407407
+nim,identifier,0.035555555555555556
+nim,image,0.0703125
+nim,main Entity Of Page,0.0
+nim,name,0.035555555555555556
+nim,potential Action,0.0
+nim,same As,0
+nim,subject Of,0.04081632653061224
+nim,rl,0
+nim,additional Name,0.0
+nim,address,0.02768166089965398
+nim,affiliation,0.035555555555555556
+nim,alumni Of,0.0078125
+nim,award,0.154320987654321
+nim,birth Date,0.017777777777777778
+nim,birth Place,0.017777777777777778
+nim,brand,0.03125
+nim,children,0.008888888888888889
+nim,colleague,0.0078125
+nim,contact Point,0.08650519031141869
+nim,death Date,0.0625
+nim,death Place,0.0625
+nim,duns,0.002958579881656805
+nim,email,0.154320987654321
+nim,family Name,0.016666666666666666
+nim,fax Number,0.006578947368421052
+nim,follows,0.0
+nim,funder,0
+nim,gender,0.03125
+nim,given Name,0.01111111111111111
+nim,global Location Number,0.0
+nim,has Occupation,0.28125
+nim,has Offer Catalog,0.09765625
+nim,has POS,0.02768166089965398
+nim,height,0.03125
+nim,home Location,0.004273504273504274
+nim,honorific Prefix,0.017777777777777778
+nim,honorific Suffix,0.017777777777777778
+nim,isic V4,0
+nim,job Title,0.140625
+nim,knows,0.062283737024221464
+nim,makes Offer,0.026041666666666664
+nim,member Of,0.0078125
+nim,naics,0
+nim,nationality,0.04081632653061224
+nim,net Worth,0.0
+nim,owns,0.0
+nim,parent,0.006172839506172839
+nim,performer In,0.008888888888888889
+nim,publishing Principles,0.06925207756232686
+nim,related To,0.0
+nim,seeks,0.125
+nim,sibling,0
+nim,sponsor,0.0078125
+nim,spouse,0.008888888888888889
+nim,tax ID,0.01384083044982699
+nim,telephone,0.006172839506172839
+nim,vat ID,0.010000000000000002
+nim,weight,0.035555555555555556
+nim,work Location,0.140625
+nim,works For,0.006920415224913495
+force,additional Type,0.0
+force,alternate Name,0.01098901098901099
+force,description,0.04733727810650888
+force,disambiguating Description,0.009615384615384616
+force,identifier,0.04733727810650888
+force,image,0.04081632653061224
+force,main Entity Of Page,0.0
+force,name,0.04733727810650888
+force,potential Action,0.0
+force,same As,0
+force,subject Of,0.05555555555555555
+force,rl,0
+force,additional Name,0.0
+force,address,0.035555555555555556
+force,affiliation,0.10650887573964499
+force,alumni Of,0.01020408163265306
+force,award,0.03125
+force,birth Date,0.02366863905325444
+force,birth Place,0.02366863905325444
+force,brand,0.04081632653061224
+force,children,0.01183431952662722
+force,colleague,0.01020408163265306
+force,contact Point,0.017777777777777778
+force,death Date,0.02197802197802198
+force,death Place,0.02040816326530612
+force,duns,0.003472222222222222
+force,email,0.03125
+force,family Name,0.02197802197802198
+force,fax Number,0.012605042016806721
+force,follows,0.0
+force,funder,0
+force,gender,0.04081632653061224
+force,given Name,0.015384615384615385
+force,global Location Number,0.0
+force,has Occupation,0.04081632653061224
+force,has Offer Catalog,0.02040816326530612
+force,has POS,0.035555555555555556
+force,height,0.09183673469387754
+force,home Location,0.005681818181818182
+force,honorific Prefix,0.02366863905325444
+force,honorific Suffix,0.02366863905325444
+force,isic V4,0
+force,job Title,0.02040816326530612
+force,knows,0.035555555555555556
+force,makes Offer,0.014285714285714285
+force,member Of,0.01020408163265306
+force,naics,0
+force,nationality,0.05555555555555555
+force,net Worth,0.0
+force,owns,0.0
+force,parent,0.0078125
+force,performer In,0.01183431952662722
+force,publishing Principles,0.016666666666666666
+force,related To,0.0
+force,seeks,0.04081632653061224
+force,sibling,0
+force,sponsor,0.01020408163265306
+force,spouse,0.01183431952662722
+force,tax ID,0.017777777777777778
+force,telephone,0.0078125
+force,vat ID,0.012345679012345678
+force,weight,0.10650887573964499
+force,work Location,0.02040816326530612
+force,works For,0.008888888888888889
+faculty,additional Type,0.0
+faculty,alternate Name,0.01282051282051282
+faculty,description,0.05555555555555555
+faculty,disambiguating Description,0.01111111111111111
+faculty,identifier,0.05555555555555555
+faculty,image,0.18934911242603553
+faculty,main Entity Of Page,0.0
+faculty,name,0.05555555555555555
+faculty,potential Action,0.0
+faculty,same As,0
+faculty,subject Of,0.06611570247933884
+faculty,rl,0
+faculty,additional Name,0.0
+faculty,address,0.04081632653061224
+faculty,affiliation,0.05555555555555555
+faculty,alumni Of,0.01183431952662722
+faculty,award,0.08000000000000002
+faculty,birth Date,0.027777777777777776
+faculty,birth Place,0.027777777777777776
+faculty,brand,0.04733727810650888
+faculty,children,0.013888888888888888
+faculty,colleague,0.01183431952662722
+faculty,contact Point,0.05357142857142857
+faculty,death Date,0.053254437869822494
+faculty,death Place,0.053254437869822494
+faculty,duns,0.0037807183364839316
+faculty,email,0.08000000000000002
+faculty,family Name,0.02564102564102564
+faculty,fax Number,0.009615384615384616
+faculty,follows,0.0
+faculty,funder,0
+faculty,gender,0.04733727810650888
+faculty,given Name,0.018518518518518517
+faculty,global Location Number,0.0
+faculty,has Occupation,0.10650887573964499
+faculty,has Offer Catalog,0.053254437869822494
+faculty,has POS,0.04081632653061224
+faculty,height,0.04733727810650888
+faculty,home Location,0.006666666666666667
+faculty,honorific Prefix,0.027777777777777776
+faculty,honorific Suffix,0.027777777777777776
+faculty,isic V4,0
+faculty,job Title,0.053254437869822494
+faculty,knows,0.16326530612244897
+faculty,makes Offer,0.02564102564102564
+faculty,member Of,0.01183431952662722
+faculty,naics,0
+faculty,nationality,0.06611570247933884
+faculty,net Worth,0.0
+faculty,owns,0.0
+faculty,parent,0.008888888888888889
+faculty,performer In,0.013888888888888888
+faculty,publishing Principles,0.05714285714285714
+faculty,related To,0.0
+faculty,seeks,0.10650887573964499
+faculty,sibling,0
+faculty,sponsor,0.01183431952662722
+faculty,spouse,0.013888888888888888
+faculty,tax ID,0.02040816326530612
+faculty,telephone,0.008888888888888889
+faculty,vat ID,0.01384083044982699
+faculty,weight,0.05555555555555555
+faculty,work Location,0.053254437869822494
+faculty,works For,0.01020408163265306
+unit,additional Type,0.0
+unit,alternate Name,0.015151515151515152
+unit,description,0.06611570247933884
+unit,disambiguating Description,0.012987012987012986
+unit,identifier,0.06611570247933884
+unit,image,0.05555555555555555
+unit,main Entity Of Page,0.0
+unit,name,0.06611570247933884
+unit,potential Action,0.0
+unit,same As,0
+unit,subject Of,0.08000000000000002
+unit,rl,0
+unit,additional Name,0.0
+unit,address,0.04733727810650888
+unit,affiliation,0.06611570247933884
+unit,alumni Of,0.013888888888888888
+unit,award,0.04081632653061224
+unit,birth Date,0.07438016528925619
+unit,birth Place,0.07438016528925619
+unit,brand,0.05555555555555555
+unit,children,0.01652892561983471
+unit,colleague,0.013888888888888888
+unit,contact Point,0.02366863905325444
+unit,death Date,0.04545454545454545
+unit,death Place,0.027777777777777776
+unit,duns,0.004132231404958678
+unit,email,0.04081632653061224
+unit,family Name,0.030303030303030304
+unit,fax Number,0.01111111111111111
+unit,follows,0.0
+unit,funder,0
+unit,gender,0.05555555555555555
+unit,given Name,0.022727272727272728
+unit,global Location Number,0.0
+unit,has Occupation,0.05555555555555555
+unit,has Offer Catalog,0.027777777777777776
+unit,has POS,0.04733727810650888
+unit,height,0.05555555555555555
+unit,home Location,0.007936507936507936
+unit,honorific Prefix,0.03305785123966942
+unit,honorific Suffix,0.03305785123966942
+unit,isic V4,0
+unit,job Title,0.027777777777777776
+unit,knows,0.04733727810650888
+unit,makes Offer,0.020833333333333332
+unit,member Of,0.013888888888888888
+unit,naics,0
+unit,nationality,0.08000000000000002
+unit,net Worth,0.0
+unit,owns,0.0
+unit,parent,0.01020408163265306
+unit,performer In,0.01652892561983471
+unit,publishing Principles,0.02197802197802198
+unit,related To,0.0
+unit,seeks,0.05555555555555555
+unit,sibling,0
+unit,sponsor,0.013888888888888888
+unit,spouse,0.01652892561983471
+unit,tax ID,0.02366863905325444
+unit,telephone,0.01020408163265306
+unit,vat ID,0.015625
+unit,weight,0.06611570247933884
+unit,work Location,0.027777777777777776
+unit,works For,0.01183431952662722
+place of birth,additional Type,0.015625
+place of birth,alternate Name,0.06777777777777778
+place of birth,description,0.013888888888888888
+place of birth,disambiguating Description,0.03333333333333333
+place of birth,identifier,0.013888888888888888
+place of birth,image,0.01183431952662722
+place of birth,main Entity Of Page,0.013605442176870748
+place of birth,name,0.013888888888888888
+place of birth,potential Action,0.027777777777777776
+place of birth,same As,0
+place of birth,subject Of,0.01652892561983471
+place of birth,rl,0
+place of birth,additional Name,0.027777777777777776
+place of birth,address,0.01020408163265306
+place of birth,affiliation,0.013888888888888888
+place of birth,alumni Of,0.04000000000000001
+place of birth,award,0.008888888888888889
+place of birth,birth Date,0.3
+place of birth,birth Place,0.8999999999999999
+place of birth,brand,0.01183431952662722
+place of birth,children,0.04591836734693877
+place of birth,colleague,0.04000000000000001
+place of birth,contact Point,0.028061224489795915
+place of birth,death Date,0.07532051282051282
+place of birth,death Place,0.27692307692307694
+place of birth,duns,0.017013232514177693
+place of birth,email,0.008888888888888889
+place of birth,family Name,0.04059829059829059
+place of birth,fax Number,0.05882488905325444
+place of birth,follows,0.0
+place of birth,funder,0
+place of birth,gender,0.01183431952662722
+place of birth,given Name,0.037037037037037035
+place of birth,global Location Number,0.041025641025641026
+place of birth,has Occupation,0.01183431952662722
+place of birth,has Offer Catalog,0.05429864253393666
+place of birth,has POS,0.02366863905325444
+place of birth,height,0.01183431952662722
+place of birth,home Location,0.17333333333333334
+place of birth,honorific Prefix,0.03611111111111111
+place of birth,honorific Suffix,0.037698412698412696
+place of birth,isic V4,0
+place of birth,job Title,0.031065088757396452
+place of birth,knows,0.01020408163265306
+place of birth,makes Offer,0.03221564760026299
+place of birth,member Of,0.04000000000000001
+place of birth,naics,0
+place of birth,nationality,0.01652892561983471
+place of birth,net Worth,0.07438016528925619
+place of birth,owns,0.0
+place of birth,parent,0.031141868512110732
+place of birth,performer In,0.04591836734693877
+place of birth,publishing Principles,0.029931972789115642
+place of birth,related To,0.0
+place of birth,seeks,0.01183431952662722
+place of birth,sibling,0
+place of birth,sponsor,0.04000000000000001
+place of birth,spouse,0.04591836734693877
+place of birth,tax ID,0.07142857142857142
+place of birth,telephone,0.04000000000000001
+place of birth,vat ID,0.058823529411764705
+place of birth,weight,0.013888888888888888
+place of birth,work Location,0.12307692307692308
+place of birth,works For,0.04591836734693877
+date of birth,additional Type,0.015625
+date of birth,alternate Name,0.04059829059829059
+date of birth,description,0.027777777777777776
+date of birth,disambiguating Description,0.03888888888888889
+date of birth,identifier,0.027777777777777776
+date of birth,image,0.02366863905325444
+date of birth,main Entity Of Page,0.013605442176870748
+date of birth,name,0.027777777777777776
+date of birth,potential Action,0.027777777777777776
+date of birth,same As,0
+date of birth,subject Of,0.03305785123966942
+date of birth,rl,0
+date of birth,additional Name,0.027777777777777776
+date of birth,address,0.02040816326530612
+date of birth,affiliation,0.027777777777777776
+date of birth,alumni Of,0.00591715976331361
+date of birth,award,0.017777777777777778
+date of birth,birth Date,0.8999999999999999
+date of birth,birth Place,0.3
+date of birth,brand,0.02366863905325444
+date of birth,children,0.006944444444444444
+date of birth,colleague,0.00591715976331361
+date of birth,contact Point,0.03826530612244898
+date of birth,death Date,0.36346153846153845
+date of birth,death Place,0.036489151873767264
+date of birth,duns,0.0018903591682419658
+date of birth,email,0.017777777777777778
+date of birth,family Name,0.053418803418803416
+date of birth,fax Number,0.03328402366863906
+date of birth,follows,0.0
+date of birth,funder,0
+date of birth,gender,0.02366863905325444
+date of birth,given Name,0.046296296296296294
+date of birth,global Location Number,0.010256410256410256
+date of birth,has Occupation,0.02366863905325444
+date of birth,has Offer Catalog,0.03271841280891055
+date of birth,has POS,0.02040816326530612
+date of birth,height,0.02366863905325444
+date of birth,home Location,0.01666666666666667
+date of birth,honorific Prefix,0.049999999999999996
+date of birth,honorific Suffix,0.051587301587301584
+date of birth,isic V4,0
+date of birth,job Title,0.04289940828402367
+date of birth,knows,0.02040816326530612
+date of birth,makes Offer,0.040762656147271537
+date of birth,member Of,0.00591715976331361
+date of birth,naics,0
+date of birth,nationality,0.03305785123966942
+date of birth,net Worth,0.07438016528925619
+date of birth,owns,0.0
+date of birth,parent,0.0044444444444444444
+date of birth,performer In,0.006944444444444444
+date of birth,publishing Principles,0.03945578231292517
+date of birth,related To,0.0
+date of birth,seeks,0.02366863905325444
+date of birth,sibling,0
+date of birth,sponsor,0.00591715976331361
+date of birth,spouse,0.006944444444444444
+date of birth,tax ID,0.02933673469387755
+date of birth,telephone,0.0044444444444444444
+date of birth,vat ID,0.021193771626297576
+date of birth,weight,0.027777777777777776
+date of birth,work Location,0.039053254437869826
+date of birth,works For,0.00510204081632653
+image,additional Type,0.0
+image,alternate Name,0.01098901098901099
+image,description,0.04733727810650888
+image,disambiguating Description,0.009615384615384616
+image,identifier,0.04733727810650888
+image,image,0.8999999999999999
+image,main Entity Of Page,0.0
+image,name,0.04733727810650888
+image,potential Action,0.0
+image,same As,0
+image,subject Of,0.05555555555555555
+image,rl,0
+image,additional Name,0.0
+image,address,0.035555555555555556
+image,affiliation,0.04733727810650888
+image,alumni Of,0.01020408163265306
+image,award,0.0703125
+image,birth Date,0.02366863905325444
+image,birth Place,0.02366863905325444
+image,brand,0.04081632653061224
+image,children,0.01183431952662722
+image,colleague,0.01020408163265306
+image,contact Point,0.05882352941176471
+image,death Date,0.04591836734693877
+image,death Place,0.04591836734693877
+image,duns,0.003472222222222222
+image,email,0.0703125
+image,family Name,0.02197802197802198
+image,fax Number,0.008403361344537815
+image,follows,0.0
+image,funder,0
+image,gender,0.04081632653061224
+image,given Name,0.015384615384615385
+image,global Location Number,0.0
+image,has Occupation,0.09183673469387754
+image,has Offer Catalog,0.04591836734693877
+image,has POS,0.035555555555555556
+image,height,0.04081632653061224
+image,home Location,0.005681818181818182
+image,honorific Prefix,0.02366863905325444
+image,honorific Suffix,0.02366863905325444
+image,isic V4,0
+image,job Title,0.04591836734693877
+image,knows,0.14222222222222222
+image,makes Offer,0.02142857142857143
+image,member Of,0.01020408163265306
+image,naics,0
+image,nationality,0.05555555555555555
+image,net Worth,0.0
+image,owns,0.0
+image,parent,0.0078125
+image,performer In,0.01183431952662722
+image,publishing Principles,0.0625
+image,related To,0.0
+image,seeks,0.09183673469387754
+image,sibling,0
+image,sponsor,0.01020408163265306
+image,spouse,0.01183431952662722
+image,tax ID,0.017777777777777778
+image,telephone,0.0078125
+image,vat ID,0.012345679012345678
+image,weight,0.04733727810650888
+image,work Location,0.04591836734693877
+image,works For,0.008888888888888889

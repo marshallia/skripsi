@@ -1,0 +1,8 @@
+No,Property, Expected Type
+1,additionalProperty,"PropertyValue,"
+2,maxValue,"Number,"
+3,minValue,"Number,"
+4,unitCode,"Text,URL,"
+5,unitText,"Text,"
+6,value,"Boolean,Number,StructuredValue,Text,"
+7,valueReference,"Enumeration,PropertyValue,QualitativeValue,QuantitativeValue,StructuredValue,"

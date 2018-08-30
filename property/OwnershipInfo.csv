@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,acquiredFrom,"Organization,Person,"
+2,ownedFrom,"DateTime,"
+3,ownedThrough,"DateTime,"
+4,typeOfGood,"Product,Service,"

@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,address,"PostalAddress,Text,"
+2,addressCountry,"Country,Text,"
+3,box,"Text,"
+4,circle,"Text,"
+5,elevation,"Number,Text,"
+6,line,"Text,"
+7,polygon,"Text,"
+8,postalCode,"Text,"

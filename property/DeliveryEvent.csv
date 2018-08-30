@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,accessCode,"Text,"
+2,availableFrom,"DateTime,"
+3,availableThrough,"DateTime,"
+4,hasDeliveryMethod,"DeliveryMethod,"

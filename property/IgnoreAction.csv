@@ -1,0 +1,12 @@
+No,Property, Expected Type
+1,actionStatus,"ActionStatusType,"
+2,agent,"Organization,Person,"
+3,endTime,"DateTime,"
+4,error,"Thing,"
+5,instrument,"Thing,"
+6,location,"Place,PostalAddress,Text,"
+7,object,"Thing,"
+8,participant,"Organization,Person,"
+9,result,"Thing,"
+10,startTime,"DateTime,"
+11,target,"EntryPoint,"

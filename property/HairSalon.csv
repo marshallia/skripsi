@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,currenciesAccepted,"Text,"
+2,openingHours,"Text,"
+3,paymentAccepted,"Text,"
+4,priceRange,"Text,"

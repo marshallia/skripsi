@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,breadcrumb,"BreadcrumbList,Text,"
+2,lastReviewed,"Date,"
+3,mainContentOfPage,"WebPageElement,"
+4,primaryImageOfPage,"ImageObject,"
+5,relatedLink,"URL,"
+6,reviewedBy,"Organization,Person,"
+7,significantLink,"URL,"
+8,speakable,"SpeakableSpecification,URL,"
+9,specialty,"Specialty,"

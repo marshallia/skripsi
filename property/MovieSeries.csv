@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,actor,"Person,"
+2,director,"Person,"
+3,musicBy,"MusicGroup,Person,"
+4,productionCompany,"Organization,"
+5,trailer,"VideoObject,"

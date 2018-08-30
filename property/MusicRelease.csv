@@ -1,0 +1,7 @@
+No,Property, Expected Type
+1,catalogNumber,"Text,"
+2,creditedTo,"Organization,Person,"
+3,duration,"Duration,"
+4,musicReleaseFormat,"MusicReleaseFormatType,"
+5,recordLabel,"Organization,"
+6,releaseOf,"MusicAlbum,"

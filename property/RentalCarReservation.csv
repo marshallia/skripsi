@@ -1,0 +1,5 @@
+No,Property, Expected Type
+1,dropoffLocation,"Place,"
+2,dropoffTime,"DateTime,"
+3,pickupLocation,"Place,"
+4,pickupTime,"DateTime,"

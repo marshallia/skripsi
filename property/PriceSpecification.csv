@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,eligibleQuantity,"QuantitativeValue,"
+2,eligibleTransactionVolume,"PriceSpecification,"
+3,maxPrice,"Number,"
+4,minPrice,"Number,"
+5,price,"Number,Text,"
+6,priceCurrency,"Text,"
+7,validFrom,"DateTime,"
+8,validThrough,"DateTime,"
+9,valueAddedTaxIncluded,"Boolean,"

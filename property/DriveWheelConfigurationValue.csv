@@ -1,0 +1,9 @@
+No,Property, Expected Type
+1,additionalProperty,"PropertyValue,"
+2,equal,"QualitativeValue,"
+3,greater,"QualitativeValue,"
+4,greaterOrEqual,"QualitativeValue,"
+5,lesser,"QualitativeValue,"
+6,lesserOrEqual,"QualitativeValue,"
+7,nonEqual,"QualitativeValue,"
+8,valueReference,"Enumeration,PropertyValue,QualitativeValue,QuantitativeValue,StructuredValue,"

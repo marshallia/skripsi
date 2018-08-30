@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,closes,"Time,"
+2,dayOfWeek,"DayOfWeek,"
+3,opens,"Time,"
+4,validFrom,"DateTime,"
+5,validThrough,"DateTime,"

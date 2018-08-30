@@ -1,0 +1,12 @@
+No,Property, Expected Type
+1,defaultValue,"Text,Thing,"
+2,maxValue,"Number,"
+3,minValue,"Number,"
+4,multipleValues,"Boolean,"
+5,readonlyValue,"Boolean,"
+6,stepValue,"Number,"
+7,valueMaxLength,"Number,"
+8,valueMinLength,"Number,"
+9,valueName,"Text,"
+10,valuePattern,"Text,"
+11,valueRequired,"Boolean,"

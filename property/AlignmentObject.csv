@@ -1,0 +1,6 @@
+No,Property, Expected Type
+1,alignmentType,"Text,"
+2,educationalFramework,"Text,"
+3,targetDescription,"Text,"
+4,targetName,"Text,"
+5,targetUrl,"URL,"

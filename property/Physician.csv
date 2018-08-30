@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,availableService,"MedicalProcedure,MedicalTest,MedicalTherapy,"
+2,hospitalAffiliation,"Hospital,"
+3,medicalSpecialty,"MedicalSpecialty,"

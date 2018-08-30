@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,amount,"MonetaryAmount,Number,"
+2,currency,"Text,"
+3,gracePeriod,"Duration,"
+4,loanRepaymentForm,"RepaymentSpecification,"
+5,loanTerm,"QuantitativeValue,"
+6,loanType,"Text,URL,"
+7,recourseLoan,"Boolean,"
+8,renegotiableLoan,"Boolean,"
+9,requiredCollateral,"Text,Thing,"

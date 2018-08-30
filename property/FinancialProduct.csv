@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,annualPercentageRate,"Number,QuantitativeValue,"
+2,feesAndCommissionsSpecification,"Text,URL,"
+3,interestRate,"Number,QuantitativeValue,"

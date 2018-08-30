@@ -1,0 +1,10 @@
+No,Property, Expected Type
+1,arrivalPlatform,"Text,"
+2,arrivalStation,"TrainStation,"
+3,arrivalTime,"DateTime,"
+4,departurePlatform,"Text,"
+5,departureStation,"TrainStation,"
+6,departureTime,"DateTime,"
+7,provider,"Organization,Person,"
+8,trainName,"Text,"
+9,trainNumber,"Text,"

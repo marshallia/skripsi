@@ -1,0 +1,4 @@
+No,Property, Expected Type
+1,itemListElement,"ListItem,Text,Thing,"
+2,itemListOrder,"ItemListOrderType,Text,"
+3,numberOfItems,"Integer,"
